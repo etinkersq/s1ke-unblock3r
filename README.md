@@ -22,7 +22,7 @@ Instructions:
 3. Click Microsoft Online Password Reset
 4. Enter google@d11.org or 456789@bsd48.org as the email and complete captcha (its case sensitive) (NOTE: If one email does not work, try another, more will be added to the list)
 5. Wait, then when the error appears, click the gray “Show additional details” button
-6. Click the blue “Learn more” link
+6. Click the blue “Learn more”, "Register for self-service password reset", or "How to successfully roll out password reset" link. (Any of the blue links that appear **after** clicking the gray button will work)
 7. Scroll all the way down on the website that loads (the Microsoft support website) and look for the link that says “sitemap” (it's all the way down), click it.
 8. Scroll down to the “Developer & IT” section and click “GitHub Copilot”
 9. Scroll all the way down and click the YouTube icon
