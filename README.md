@@ -20,7 +20,7 @@ Instructions:
 1. Make sure you are signed out
 2. Click Apps at the bottom
 3. Click Microsoft Online Password Reset
-4. Enter google@d11.org, spstudent@d11.org, or 456789@bsd48.org as the email and complete captcha (its case sensitive) (NOTE: If one email does not work, try another, more will be added to the list)
+4. Enter google@d11.org or 456789@bsd48.org as the email and complete captcha (its case sensitive) (NOTE: If one email does not work, try another, more will be added to the list)
 5. Wait, then when the error appears, click the gray “Show additional details” button
 6. Click the blue “Learn more” link
 7. Scroll all the way down on the website that loads (the Microsoft support website) and look for the link that says “sitemap” (it's all the way down), click it.
