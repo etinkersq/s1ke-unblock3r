@@ -1,7 +1,7 @@
 # s1ke-unblock3r
 A new method of accessing blocked sites on school Chromebooks
 
-
+![Video of it in action](https://github.com/etinkersq/s1ke-unblock3r/blob/138ac7ace27bffdad70d75c3dfb9fbee8715e4b4/Screen%20recording%202025-12-11%2010.43.43%20AM.gif)
 
 # How it works?
 
