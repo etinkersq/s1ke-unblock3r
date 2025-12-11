@@ -13,6 +13,8 @@ This exploit uses a very specific kiosk app found on some* school Chromebooks. T
 3. Check if there is a button with the words 'Microsoft Online Password Reset' or anything to do with Microsoft and resetting.
 4. If you have the Microsoft option, you are all set, if not, you're out of luck.
 
+# How to do it?
+
 Instructions:
 
 1. Make sure you are signed out
