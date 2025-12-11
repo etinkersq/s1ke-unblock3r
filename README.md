@@ -1,6 +1,8 @@
 # s1ke-unblock3r
 A new method of accessing blocked sites on school Chromebooks
 
+
+
 # How it works?
 
 This exploit uses a very specific kiosk app found on some* school Chromebooks. This uses the Microsoft Online Password Reset lock screen kiosk app (found in 'Apps' on the lock screen) as a web browser, allowing you to bypass any content filtering on the network. And in case you are wondering, doing this does not actually reset anything and you will not get caught, relax!
