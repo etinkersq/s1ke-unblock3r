@@ -30,6 +30,20 @@ Instructions:
 11. Scroll all the way down on the Google privacy policy website and click the gray “Google” link.
 12. Have fun!
 
+# Limitations
+
+1. You can only open sites in the same tab, if it wants to open in a new tab or window, it is not possible as kisok apps block this behavior
+2. You cannot exit fullscreen
+3. You will have to go back to Google using the back buttion (to the right of 'esc' on your keyboard) everytime you want to open a new website
+4. May not work all the time as the Microsoft password reset site doesn't allow you to use the same email over 5 times within an hour, if you get a red error, wait an hour then try again
+
+# Features
+
+-Access any site
+-Does not store history
+-Keeps cookies so once you sign in, you don't have to worry anymore
+-If you need to get out quickly, hold the power button and click sign out (good panic mode in case a teacher comes up behind you :|)
+
 # DISCLAIMER!!!
 
 This was made for educational purposes only, please do not use this to cheat, or anything like that, I am not responsible if you get in trouble with your school.
