@@ -40,8 +40,11 @@ Instructions:
 # Features
 
 -Access any site
+
 -Does not store history
+
 -Keeps cookies so once you sign in, you don't have to worry anymore
+
 -If you need to get out quickly, hold the power button and click sign out (good panic mode in case a teacher comes up behind you :|)
 
 # DISCLAIMER!!!
